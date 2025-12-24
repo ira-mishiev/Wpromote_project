@@ -12,7 +12,7 @@ Tracks daily trends and core KPIs like **CTR, CPC, CPA, and ROAS** using a clean
 
 ## Dashboard Preview
 
-![Marketing KPI Dashboard](assets/dashboard.png)
+![Marketing KPI Dashboard](dashboard.png)
 
 ## Dataset
 Expected columns (CSV):
