@@ -10,6 +10,10 @@ Tracks daily trends and core KPIs like **CTR, CPC, CPA, and ROAS** using a clean
 - Daily trend charts for CTR, CPC, CPA, ROAS
 - Summary metrics (impressions, clicks, spend, revenue, conversions)
 
+## Dashboard Preview
+
+![Marketing KPI Dashboard](assets/dashboard.png)
+
 ## Dataset
 Expected columns (CSV):
 
